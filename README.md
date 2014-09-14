@@ -1,4 +1,4 @@
 miv-irc
 =======
 
-I
+IRC Module for MultIV (NON-OOP)
